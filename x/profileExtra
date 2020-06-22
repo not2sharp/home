@@ -1,0 +1,3 @@
+xfconf-query -c xfce4-session -p /sessions/Failsafe/Client0_Command -t string -sa xmonad
+xfconf-query -c xfce4-session -p /sessions/Failsafe/Client4_Command -t string -t string -s xfdesktop -s -D
+xfconf-query -c xfce4-desktop -p /desktop-icons/style -s 0

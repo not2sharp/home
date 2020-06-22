@@ -1,0 +1,5 @@
+xrdb -merge /home/dzanot/.Xresources
+
+exec xmonad
+
+exec xmobar
